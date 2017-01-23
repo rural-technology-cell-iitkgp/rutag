@@ -3,8 +3,8 @@ session_start();
 
 $dbname="rtc";
 $host="localhost";
-$username="root";
-$pass="";
+$username="rutag";
+$pass="Rutag@1234";
 $conn= new mysqli($host,$username,$pass,$dbname);
 if ($conn->connect_error) {
 		die("It seems that we cannot talk to our DB right now. Please try again in a couple of minutes");
