@@ -128,7 +128,7 @@ Helping these industries and artisans through technology needs a different appro
 					<h3>Dr. P B S Bhdoria</h3>
 					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo. </p>
 				</div-->
-						<h2 style="text-align:center;position:relative;right:150px;"> Who can be implementing partners? </h2>
+						<h2 style="text-align:center;"> Who can be implementing partners? </h2>
 
 			<p style="font-size:16px;"> The scheme is being implemented through NGOs and Self Help Groups (SHGs). NGOs who are engaged in any science and technology oriented initiative or have the skill and capabilities to implement such projects are welcome to contact us.  </p>
 			<br><br><br><br>
