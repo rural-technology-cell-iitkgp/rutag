@@ -139,7 +139,19 @@ Helping these industries and artisans through technology needs a different appro
 			<div class="col-md-3">
 			<img src="images/ppc.jpg" width="200" height="200"></div>
 			<div class="col-md-9">					<h3>Prof. P P C Chakraborty</h3>
-<p style="font-size:16px;"> Message from director </p></div>
+<p style="font-size:16px;">RuTAG is a revolutionary initiative by the Principal Scientific Advisor to the
+
+Government of India aiming to improve livelihood of rural poor through
+
+technological interventions. The mandate of the scheme is to improve
+
+production processes and quality of products and services to create better
+
+value and thus improve income. The basic philosophy is to put in place a
+
+self-supporting and long-term sustainable model that is not dependent on
+
+external assistance. </p></div>
 		</div>
 		<!-- / container -->
 	<!--/section-->

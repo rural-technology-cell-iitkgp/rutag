@@ -1,7 +1,7 @@
 <?php   
 session_start();
 
-$dbname="rtc";
+$dbname="rutag";
 $host="localhost";
 $username="rutag";
 $pass="Rutag@1234";
