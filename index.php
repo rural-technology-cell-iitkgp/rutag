@@ -158,7 +158,7 @@ external assistance. </p></div>
 <div class="row">	
 	<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;"> Founder's Message</h2>
 			<div class="col-md-3">
-			<img src="images/pbs.jpg" width="200" height="200"></div>
+			<img src="images/pbs.JPG" width="200" height="200"></div>
 			<div class="col-md-9">					<h3>Prof. P B S Bhdoria</h3>
 <p style="font-size:16px;">RuTAG is a revolutionary initiative by the Principal Scientific Advisor to the
 
