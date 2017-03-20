@@ -27,7 +27,8 @@
 	<!-- / header -->
 	<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;">Rural Technology Cell</h2>
 	<br><br>
-	<div class="">
+	<div class="container">
+	<div class="row">
 		<!--ul class="bxslider">
 			<li>
 				<div class="container">
@@ -122,7 +123,7 @@ Helping these industries and artisans through technology needs a different appro
 	<!--section class="events"-->
 
 
-		<div class="container">			
+		<div class="">			
 				<!--img width="121" height="150" src="images/pbs.jpg" alt="">
 				<div class="info">
 					<h3>Dr. P B S Bhdoria</h3>
@@ -132,13 +133,14 @@ Helping these industries and artisans through technology needs a different appro
 
 			<p style="font-size:16px;"> The scheme is being implemented through NGOs and Self Help Groups (SHGs). NGOs who are engaged in any science and technology oriented initiative or have the skill and capabilities to implement such projects are welcome to contact us.  </p>
 			<br><br><br><br>
+			<div class="row">
 						<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;"> Modus operandi:</h2>
 
 			<p style="font-size:16px;">Projects under Rural Technologies Development should target any activity that aims to absorb new technology to improve the already existing production method or introduce a new technology in the already existing production system that enhances the economic value. Proposals are welcome.  </p><br>
 			<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;"> Director's Message</h2>
 			<div class="col-md-3">
 			<img src="images/ppc.jpg" width="200" height="200"></div>
-			<div class="col-md-9">					<h3>Prof. P P C Chakraborty</h3>
+			<div class="col-md-9">					<h3>Prof. Partha Pratim Chakraborty</h3>
 <p style="font-size:16px;">RuTAG is a revolutionary initiative by the Principal Scientific Advisor to the
 
 Government of India aiming to improve livelihood of rural poor through
@@ -152,6 +154,26 @@ value and thus improve income. The basic philosophy is to put in place a
 self-supporting and long-term sustainable model that is not dependent on
 
 external assistance. </p></div>
+</div><br><br><br><br>
+<div class="row">	
+	<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;"> Founder's Message</h2>
+			<div class="col-md-3">
+			<img src="images/pbs.jpg" width="200" height="200"></div>
+			<div class="col-md-9">					<h3>Prof. P B S Bhdoria</h3>
+<p style="font-size:16px;">RuTAG is a revolutionary initiative by the Principal Scientific Advisor to the
+
+Government of India aiming to improve livelihood of rural poor through
+
+technological interventions. The mandate of the scheme is to improve
+
+production processes and quality of products and services to create better
+
+value and thus improve income. The basic philosophy is to put in place a
+
+self-supporting and long-term sustainable model that is not dependent on
+
+external assistance. </p></div></div>
+		</div>
 		</div>
 		<!-- / container -->
 	<!--/section-->
