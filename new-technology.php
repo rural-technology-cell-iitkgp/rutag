@@ -23,12 +23,112 @@
 			<!-- / navigation -->
 		
 	<!-- / header -->
-	<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;">Technologies under Development</h2>
+	<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;">Technologies Developed</h2>
 	<br><br>
 	
 	<div class="tech-developed">
 	
-<table class="table table-stripped table-bordered">
+<!--div style="position:relative;left:120px;">
+<ul><li>1 hp motorized machine operated by a single person
+</li><li> Ripit have been replaced to welding for better efficiency of the machine
+</li><li> Hot sand filtration net have been modified from 3 to 2 rows
+</li><li> Productivity is 60 kg/hr
+</li> </ul>
+</div-->
+	<h2 style="text-align:center;">Modified Cylinder type Grain Puffing cum Roasting Machine
+</h2>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/machinea.png">
+	</div>
+	<div class="col-md-6">
+		<img src="images/machineb.png">
+	</div>
+</div><br><br>
+<h2 style="text-align:center;">LPG based Integrated Puffed Rice (Muri) Making Machine
+</h2>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/muria.png">
+	</div>
+	<div class="col-md-6">
+		<img src="images/murib.png">
+	</div>
+</div>
+<br><br>
+<h2 style="text-align:center;">Rice Flakes (Chiura) Making Machine
+</h2>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" width="380" height="250"  src="images/ricea.png">
+	</div>
+	<div class="col-md-6">
+		<img src="images/riceb.png"  width="380" height="250">
+	</div>
+</div>
+<br><br>
+<h2 style="text-align:center;">Mechanized Dhenki (Motorized Rice Pounder)
+</h2>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/mecha.png">
+	</div>
+	<div class="col-md-6">
+		<img src="images/mechb.png">
+	</div>
+</div>
+<br><br>
+<h2 style="text-align:center;">Pottery Wheel
+</h2>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/pottera.png">
+	</div>
+	<div class="col-md-6">
+		<img src="images/potterb.png" width="450" height="320">
+	</div>
+</div>
+<br><br>
+<h2 style="text-align:center;">Rope Making Machine
+</h2>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/sabaia.png">
+		<br>
+		<p style="position:relative;left:120px;">Pedal operated Sabai grass rope making machine training  <br>at SODA (NGO), Baripada
+</p>
+	</div>
+	<div class="col-md-6">
+		<img src="images/sabaib.png">
+	<br>
+		<p>Motorized Sabai Grass Rope Making Machine
+
+</p>
+	</div>
+</div>
+<br><br>
+<h2 style="text-align:center;">Motorized Sisal Fiber Extractor Machine
+</h2>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/sisala.png">
+	</div>
+	<div class="col-md-6">
+		<img src="images/sisalb.png">
+	</div>
+</div>
+<br><br>
+<h2 style="text-align:center;">Ambar Charkha
+</h2>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/ambara.png">
+	</div>
+	<div class="col-md-6">
+		<img src="images/ambarb.png">
+	</div>
+</div>
+<!--table class="table table-stripped table-bordered">
 	<thead>
 		<td><b>S.No</b></td>
 		<td><b>Technology</b></td>
@@ -52,7 +152,7 @@
 			<td>Dhoop stick (incense stick) making</td>
 		</tr>
 	</tbody>		
-	</table>
+	</table-->
 	</div>
 	<?php include 'footer.php' ?>
 

@@ -19,10 +19,8 @@ Email : <a>pbsb@agfe.iitkgp.ernet.in</a>
       <div class="col-md-2 col-sm-6 paddingtop-bottom">
         <h6 class="heading7">GENERAL LINKS</h6>
         <ul class="footer-ul">
-          <li><a href="#"> IIT Kharagpur</a></li>
-          <li><a href="#"> AGFE Department</a></li>
+          <li><a href="https://www.youtube.com/channel/UCIKcL5MFUExA2DslzT2NrbA"> Youtube</a></li>
          
-          <li><a href="#"> Frequently Ask Questions</a></li>
         </ul>
       </div>
       <div class="col-md-3 col-sm-6 paddingtop-bottom">
@@ -34,9 +32,9 @@ Email : <a>pbsb@agfe.iitkgp.ernet.in</a>
         </div-->
       </div>
       <div class="col-md-3 col-sm-6 paddingtop-bottom">
-        <div class="fb-page" data-href="https://www.facebook.com/facebook" data-tabs="timeline" data-height="300" data-small-header="false" style="margin-bottom:15px;" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+        <div class="fb-page" data-href="https://www.facebook.com/profile.php?id=100009435761044" data-tabs="timeline" data-height="300" data-small-header="false" style="margin-bottom:15px;" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
           <div class="fb-xfbml-parse-ignore">
-            <blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote>
+            <blockquote cite="https://www.facebook.com/profile.php?id=100009435761044"><a href="https://www.facebook.com/profile.php?id=100009435761044">Facebook</a></blockquote>
           </div>
         </div>
       </div>

@@ -17,8 +17,8 @@
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology Development<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="technology-development.php">Technology Developed</a></li>
-            <li><a href="new-technology.php">Development of New Technologies</a></li>
-            <li><a href="technology-use.php">Technology in Use</a></li>
+            <li><a href="new-technology.php">Development of Technology </a></li>
+            <!--li><a href="technology-use.php">Technology in Use</a></li-->
           </ul>
         </li>
         <li><a href="request.php">Request for Technology</a></li>
