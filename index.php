@@ -165,7 +165,7 @@ external assistance. </p></div>
 
 <div class="row">	
 			<div class="col-md-5">
-			<img src="images/pbs.PNG" width="200" height="200"></div>
+			<img src="images/pbs.png" width="200" height="200"></div>
 			<div class="col-md-7">					<h3>Prof. P B S Bhdoria</h3>
 <p style="font-size:16px;text-align:justify;">RuTAG is a revolutionary initiative by the Principal Scientific Advisor to the
 
