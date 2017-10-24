@@ -140,7 +140,8 @@ Helping these industries and artisans through technology needs a different appro
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+<br>
+<a href="new-technology.php" class="btn btn-success" style="position:relative;width:660px;">View All</a>
 </div>
 
 	</div>
