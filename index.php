@@ -101,6 +101,7 @@ Helping these industries and artisans through technology needs a different appro
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -125,6 +126,13 @@ Helping these industries and artisans through technology needs a different appro
       <img src="images/slide/potterb.png" alt="New York">
       <div class="carousel-caption">
         <h3>Potter</h3>
+        <p></p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="images/slide/sabai.png" alt="New York">
+      <div class="carousel-caption">
+        <h3>Sabai Machine</h3>
         <p></p>
       </div>
     </div>
