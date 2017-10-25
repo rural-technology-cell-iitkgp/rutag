@@ -197,7 +197,7 @@ Helping these industries and artisans through technology needs a different appro
 
 			<p style="font-size:16px;"> The scheme is being implemented through NGOs and Self Help Groups (SHGs). NGOs who are engaged in any science and technology oriented initiative or have the skill and capabilities to implement such projects are welcome to contact us.  </p>
 			<br><br><br><br>
-			<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;"> Modus operandi:</h2>
+			<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;"> Modulus operandi:</h2>
 
 			<p style="font-size:16px;">Projects under Rural Technologies Development should target any activity that aims to absorb new technology to improve the already existing production method or introduce a new technology in the already existing production system that enhances the economic value. Proposals are welcome.  </p><br>
 		
@@ -230,7 +230,7 @@ external assistance. </p></div>
 <div class="row">	
 			<div class="col-md-5">
 			<img src="images/pbs.png" width="200" height="200"></div>
-			<div class="col-md-7">					<h3>Prof. P B S Bhdoria</h3>
+			<div class="col-md-7">					<h3>Prof. P B S Bhadoria</h3>
 <p style="font-size:16px;text-align:justify;">RuTAG is a revolutionary initiative by the Principal Scientific Advisor to the
 
 Government of India aiming to improve livelihood of rural poor through
