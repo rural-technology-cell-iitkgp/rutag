@@ -60,80 +60,78 @@
 		</ul>
 		<div class="bg-bottom"></div-->
 		<div class="col-md-6" >
-		<div class="slick">
+		<!--div class="slick">
   <div><img class="rtc-home-img" src="images/main.jpg" ></div>
   <div><img class="rtc-home-img" src="images/slider/1.png" ></div>
   <div><img class="rtc-home-img" src="images/slider/2.png" ></div>
   <div><img class="rtc-home-img" src="images/slider/3.png" ></div>
   <div><img class="rtc-home-img" src="images/slider/4.png" ></div>
-  <!--button type="button" class="slick-prev">Previous</button>
-  <button type="button" class="slick-prev">Next</button-->
+  
 
-</div>
-	
-		<br><br>
-		</div>
-		<div class="col-md-6">
-			
-	<p style="padding:2px;text-align:justify;font-size:14px;">
-	Indian Institute of Technology Kharagpur is involved in developing various technologies for rural artisans and rural industries in addition to being a major research institution for high end technologies. They contribute mightily to the wealth of the nation even though they are scattered and generally unorganized. They also contribute raw and semi-finished products used in the big industries. It is essential to encourage sustainable progress through development and dissemination of technologies that are tailored to the specific characteristics of those living and working in these areas. If implemented properly these will open a new horizon of generating increases in employment and income, reducing production costs, and improving the quality and efficiency.</p><br>
-<p>
-Helping these industries and artisans through technology needs a different approach since individual units are small and scattered. 
-</p><br>
-<p>Various projects were initiated from time to time which resulted in many technology developments. Innovative products and methods have been transferred to rural areas through different media consisting of NGOs, SHGs, etc.
-</p><br>
-<p>At present projects named Rural Technology Action Group-Eastern India (RuTAG) project, National Initiative for Design Innovation (NID) are in operation. Rural Technology Action Group (RuTAG), is an initiative towards improving the livelihood of the vast rural poor through dissemination of innovative technological inputs.
-
-	</p><br>
-		</div>
-	</div>
-	<!-- Slider -->
-
-
-
-
-	<div class="row">
-		<div class="col-md-3"></div>
-		<div class="col-md-7">	
-		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+</div-->
+	<div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
     <li data-target="#myCarousel" data-slide-to="3"></li>
+    <li data-target="#myCarousel" data-slide-to="4"></li>
+    <li data-target="#myCarousel" data-slide-to="5"></li>
+    <li data-target="#myCarousel" data-slide-to="6"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
-    <div class="item active">
-      <img src="images/slide/muria.png" alt="Chania">
+     <div class="item active">
+      <img src="images/slide/main.jpg" alt="Chania">
       <div class="carousel-caption">
-        <h3>Muri Machine</h3>
+        <h3>IIT Kharagpur</h3>
+        <p></p>
+      </div>
+    </div>
+     <div class="item ">
+      <img src="images/slide/a.png" alt="Chania">
+      <div class="carousel-caption">
+        <h3>Mechanised Dhenki</h3>
+        <p></p>
+      </div>
+    </div>
+      <div class="item ">
+      <img src="images/slide/b.png" alt="Chania">
+      <div class="carousel-caption">
+        <h3>Rice Puffing Machine</h3>
+        <p></p>
+      </div>
+    </div>
+    <div class="item ">
+      <img src="images/slide/c.png" alt="Chania">
+      <div class="carousel-caption">
+        <h3>Pedal-driven Pottery Wheel</h3>
         <p></p>
       </div>
     </div>
 
     <div class="item">
-      <img src="images/slide/ricea.png" alt="Chicago">
+      <img src="images/slide/d.png" alt="Chicago">
       <div class="carousel-caption">
-        <h3>Rice Machine</h3>
+        <h3>Power Pottery Wheel</h3>
         <p></p>
       </div>
     </div>
 
     <div class="item">
-      <img src="images/slide/potterb.png" alt="New York">
+      <img src="images/slide/e.png" alt="New York">
       <div class="carousel-caption">
-        <h3>Potter</h3>
-        <p></p>
+        <h3>Visit of</h3>
+        <p style="font-size:16px;">Smt. Kumudben Manishankar Joshi</p>
       </div>
     </div>
     <div class="item">
-      <img src="images/slide/sabai.png" alt="New York">
+      <img src="images/slide/f.jpg" alt="New York">
       <div class="carousel-caption">
-        <h3>Sabai Machine</h3>
-        <p></p>
+        <h3>Visit of</h3>
+        <p style="font-size:16px;">Dr. Mrs. Sudha Murthy</p>
       </div>
     </div>
   </div>
@@ -149,7 +147,34 @@ Helping these industries and artisans through technology needs a different appro
   </a>
 </div>
 <br>
-<a href="new-technology.php" class="btn btn-success" style="position:relative;width:660px;">View All</a>
+<a href="new-technology.php" class="btn btn-success" style="position:relative;width:560px;">View All</a>
+	
+		<br><br>
+		</div>
+		<div class="col-md-6">
+			
+	<p style="padding:6px;text-align:justify;font-size:18px;">
+	Indian Institute of Technology Kharagpur is involved in developing various technologies for rural artisans and rural industries in addition to being a major research institution for high end technologies. They contribute mightily to the wealth of the nation even though they are scattered and generally unorganized. They also contribute raw and semi-finished products used in the big industries. It is essential to encourage sustainable progress through development and dissemination of technologies that are tailored to the specific characteristics of those living and working in these areas. If implemented properly these will open a new horizon of generating increases in employment and income, reducing production costs, and improving the quality and efficiency.</p><br>
+<!--p>
+Helping these industries and artisans through technology needs a different approach since individual units are small and scattered. 
+</p><br>
+<p>Various projects were initiated from time to time which resulted in many technology developments. Innovative products and methods have been transferred to rural areas through different media consisting of NGOs, SHGs, etc.
+</p><br>
+<p>At present projects named Rural Technology Action Group-Eastern India (RuTAG) project, National Initiative for Design Innovation (NID) are in operation. Rural Technology Action Group (RuTAG), is an initiative towards improving the livelihood of the vast rural poor through dissemination of innovative technological inputs.
+
+	</p--><br>
+		</div>
+	</div>
+	<!-- Slider -->
+
+
+
+
+	<div class="row">
+		<div class="col-md-3"></div>
+		<div class="col-md-7">	
+	
+
 </div>
 
 	</div>

@@ -12,6 +12,12 @@
 	<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
+	<style type="text/css">
+	img{
+		width: 451px;
+		height: 310px;
+	}
+	</style>
 	
 </head>
 <body>
@@ -24,7 +30,6 @@
 		
 	<!-- / header -->
 	<h2 style="text-align:center;background-color:lightblue;color:white;border-radius:6px;padding:2px;">Technologies Developed</h2>
-	<br><br>
 	
 	<div class="tech-developed">
 	
@@ -35,24 +40,50 @@
 </li><li> Productivity is 60 kg/hr
 </li> </ul>
 </div-->
-	<h2 style="text-align:center;">Modified Cylinder type Grain Puffing cum Roasting Machine
+	<h2 style="text-align:center;color:blue"><b>Mechanised Dhenki</b>
 </h2>
 <div class="row">
 	<div class="col-md-6">
-		<img style="position:relative;left:120px;" src="images/machinea.png">
+		<img style="position:relative;left:120px;" src="images/md.png">
 	</div>
 	<div class="col-md-6">
-		<img src="images/machineb.png">
+		<img src="images/attad.png">
+	</div>
+</div><br>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/KD.jpg">
+	</div>
+	<div class="col-md-6">
+		<img src="images/PD.jpg">
 	</div>
 </div><br><br>
-<h2 style="text-align:center;">LPG based Integrated Puffed Rice (Muri) Making Machine
+<br>
+<h2 style="text-align:center;color:blue"><b>Portable Rice Puffing Machine</b>
 </h2>
+
 <div class="row">
 	<div class="col-md-6">
-		<img style="position:relative;left:120px;" src="images/muria.png">
+		<img style="position:relative;left:120px;" src="images/pma.png">
 	</div>
 	<div class="col-md-6">
-		<img src="images/murib.png">
+		<img src="images/pmb.png">
+	</div>
+</div><br>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/pmc.jpg">
+	</div>
+	<div class="col-md-6">
+		<img src="images/pmd.jpg">
+	</div>
+</div><br>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/LPGM_Rchd.png">
+	</div>
+	<div class="col-md-6">
+		<img src="images/muri.png">
 	</div>
 </div>
 <br><br>
@@ -126,6 +157,17 @@
 	</div>
 	<div class="col-md-6">
 		<img src="images/ambarb.png">
+	</div>
+</div>
+<br><br>
+<h2 style="text-align:center;">Pineapple Piller
+</h2>
+<div class="row">
+	<div class="col-md-6">
+		<img style="position:relative;left:120px;" src="images/pinea.png">
+	</div>
+	<div class="col-md-6">
+		<img src="images/pineb.png">
 	</div>
 </div>
 <!--table class="table table-stripped table-bordered">
