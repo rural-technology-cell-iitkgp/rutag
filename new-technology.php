@@ -52,10 +52,10 @@
 </div><br>
 <div class="row">
 	<div class="col-md-6">
-		<img style="position:relative;left:120px;" src="images/KD.jpg">
+		<img style="position:relative;left:120px;" src="images/kd.jpg">
 	</div>
 	<div class="col-md-6">
-		<img src="images/PD.jpg">
+		<img src="images/pd.jpg">
 	</div>
 </div><br><br>
 <br>
